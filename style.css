@@ -1,0 +1,140 @@
+body {
+    color: black;
+  }
+  
+  h3 {
+    color: black;
+  }
+  
+  h5 {
+    color: #ab47bd;
+  }
+  
+  .card {
+    border: 5px solid #ab47bd !important;
+  }
+  
+  .card-title {
+    color: #ab47bd;
+    font-size: 35px;
+  }
+  
+  .form-control {
+    max-width: 44%;
+    border-color: #ab47bd !important;
+  }
+  
+  .card-body {
+    border-width: 50px;
+    font-family: "Fjalla One", sans-serif;
+  }
+  
+  .card-subtitle {
+    font-size: 20px;
+  }
+  
+  .card-text {
+    text-align: center;
+    line-height: 35px;
+  }
+  
+  .mainweather {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .col {
+    color: #ab47bd;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .btn-outline-primary {
+    background-color: #f6e9f7 !important;
+    border-color: #ab47bd !important;
+    color: #ab47bd !important;
+  }
+  
+  .codedby {
+    text-align: center;
+  }
+  
+  .card-subtitle {
+    text-align: center;
+  }
+  
+  a {
+    outline: none;
+    text-decoration: none;
+  }
+  
+  a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:focus {
+    background: #f6e9f7;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    background: #f6e9f7;
+    text-decoration: none;
+  }
+  
+  a:active {
+    background: #f6e9f7;
+    color: #ab47bd;
+    text-decoration: none;
+  }
+  
+  .search {
+    width: auto;
+    position: relative;
+    display: flex;
+  }
+  
+  .citysearchterm {
+    width: 690px;
+    border: 3px solid #ab47bd;
+    padding: 15px;
+    height: 20px;
+    border-radius: 5px;
+    outline: none;
+    color: #ab47bd;
+    font-family: "Fjalla One", sans-serif;
+  }
+  
+  .citysearchbutton {
+    width: 85px;
+    height: 37px;
+    border: 1px solid #ab47bd;
+    border-radius: 5px;
+    background: #ab47bd;
+    text-align: center;
+    color: #000;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: "Fjalla One", sans-serif;
+  }
+  
+  .current-button {
+    width: 120px;
+    height: 37px;
+    border: 1px solid #ab47bd;
+    border-radius: 5px;
+    background: #ab47bd;
+    text-align: center;
+    color: #000;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: "Fjalla One", sans-serif;
+  }
+  
